@@ -36,10 +36,12 @@ Welcome 👋🏻 to my GitHub profile! I’m Shriram Vibhute, a passionate Machi
 #### WhatsApp Chat Analysis - WebApp 🗪
 - **Libraries & Frameworks:** NumPy | Pandas | Seaborn | Plotly | Word Cloud | Streamlit
 - **Description:** Developed a Streamlit app that enables users to upload and analyze WhatsApp chat files, both group and one-on-one. The app provides insightful trends, sentiment analysis, and key highlights, transforming conversations into meaningful data 💡.
+- GitHub Repository: [WhatsApp Chat Analysis](https://github.com/Shriram-Vibhute/WhatsApp-Chat-Analyzer)
 
 #### Among Us Exploratory Data Analysis 🎮
 - **Libraries & Frameworks:** NumPy | Pandas | Plotly | EDA
 - **Description:** Exploratory data analysis (EDA) of gameplay statistics from the popular multiplayer game, Among Us. Originally released in 2018, the game surged in popularity during the summer of 2020, resulting in a wealth of data regarding player performance and game dynamics 💡.
+- GitHub Repository: [Among Us Exploratory Data Analysis](https://github.com/Shriram-Vibhute/Among-Us-Exploratory-Data-Analysis)
 
 ## 📫 Get In Touch
 
