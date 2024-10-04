@@ -49,6 +49,7 @@ Welcome 👋🏻 to my GitHub profile! I’m Shriram Vibhute, a passionate Machi
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shriram-vibhute)
 - **GitHub:** [GitHub Profile](https://github.com/Shriram-Vibhute)
 - **Kaggle:** [Kaggle Profile](https://www.kaggle.com/shriramvibhute)
+- **Twitter** [Twitter Profile](https://x.com/shriram_vibhute)
 
 ---
 
