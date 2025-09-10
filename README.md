@@ -1,2 +1,2 @@
-Hello 👋🏻, I’m Shriram Vibhute ☺️, Welcome 🙏 to my GitHub profile!  
-A passionate Machine Learning Engineer from India. Contributing in AIML to revolutionize the world<br>
+Greetings 👋🏻, I’m Shriram Vibhute
+"I build pipelines where raw data flows into systems that learn and act like humans."
